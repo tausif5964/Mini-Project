@@ -1,6 +1,5 @@
 Creating a comprehensive `README.md` file for your virtual assistant project on GitHub will provide potential users and contributors with a clear understanding of the project's purpose, features, setup instructions, and usage. Below is a suggested content structure for your `README.md` file:
 
-```markdown
 # Zahra - A Virtual Personal Assistant
 
 ![Zahra](virtual-assistant.png)
@@ -62,7 +61,7 @@ pip install newspaper3k
 pip install nltk
 pip install pandas
 pip install matplotlib
-```
+
 
 ### Download NLTK Data
 
@@ -151,7 +150,6 @@ If you have any questions or encounter any issues, please feel free to [open an 
 
 Happy coding!
 
-```
 
 ### Explanation of the Sections
 
@@ -181,10 +179,9 @@ Happy coding!
 
 Here's an example of adding badges at the top:
 
-```markdown
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
-```
+
 
 ### Conclusion
 
