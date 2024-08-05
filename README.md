@@ -1,5 +1,3 @@
-Creating a comprehensive `README.md` file for your virtual assistant project on GitHub will provide potential users and contributors with a clear understanding of the project's purpose, features, setup instructions, and usage. Below is a suggested content structure for your `README.md` file:
-
 # Zahra - A Virtual Personal Assistant
 
 ![Zahra](virtual-assistant.png)
